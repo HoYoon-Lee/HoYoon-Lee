@@ -19,6 +19,7 @@
 </br>
 
 ### GitHub Summary
-![Languages from Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=HoYoon-Lee&layout=compact&langs_count=8) ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoYoon-Lee&theme=github)
+![Languages from Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=HoYoon-Lee&layout=compact&langs_count=8)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoYoon-Lee&theme=github)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
