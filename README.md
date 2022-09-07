@@ -16,7 +16,7 @@
 
 ### GitHub Summary
 [![Languages from Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=HoYoon-Lee&layout=compact&langs_count=8&theme=nord)](https://github.com/HoYoon-Lee)
-[<img src="https://activity-graph.herokuapp.com/graph?username=HoYoon-Lee&theme=nord" width=80%>](https://github.com/HoYoon-Lee)
+[<img src="https://activity-graph.herokuapp.com/graph?username=HoYoon-Lee&theme=nord" width=100%>](https://github.com/HoYoon-Lee)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
 
