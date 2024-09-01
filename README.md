@@ -11,11 +11,11 @@
 </br></br></br>
 
 ### Projects
-|Project|Type|Repository|Description|
+|Project|Type|Description|Repository|
 |:--:|:--:|:--:|:--:|
-|U Life Kurly|Web|[Kurvey GitHub - Server](https://github.com/Kurvey/Server)|[Notion](https://lee-hoyoon.notion.site/U-Life-Kurly-cd193dcb820147088547f82598c398ec)|
-|HanBang|Web|[NHYC GitHub](https://github.com/AhnHyeonho/NHYC)|[Notion](https://lee-hoyoon.notion.site/HanBang-da45226e49c043d4ad284a55072d9d89)|
-|Golden Box|Android|[J2Y2 GitHub - App for General Users](https://github.com/J2Y2-GoldenBox/GoldenBox-GeneralPurposeVehicle)|[Notion](https://lee-hoyoon.notion.site/Golden-Box-735da60843bd45d3a3a5169206ebe91a)|
+|U Life Kurly|Web|[Notion](https://lee-hoyoon.notion.site/U-Life-Kurly-cd193dcb820147088547f82598c398ec)|[Kurvey GitHub - Server](https://github.com/Kurvey/Server)|
+|HanBang|Web|[Notion](https://lee-hoyoon.notion.site/HanBang-da45226e49c043d4ad284a55072d9d89)|[NHYC GitHub](https://github.com/AhnHyeonho/NHYC)|
+|Golden Box|Android|[Notion](https://lee-hoyoon.notion.site/Golden-Box-735da60843bd45d3a3a5169206ebe91a)|[J2Y2 GitHub - App for General Users](https://github.com/J2Y2-GoldenBox/GoldenBox-GeneralPurposeVehicle)|
 </br>
 
 ### GitHub Summary
